@@ -16,7 +16,7 @@ In this paper, we address the following question: How do generic foundation mode
 
 ---
 
-
+## Supplementary Materials: 
 ![Image 1](images/1.jpg)
 ![Image 2](images/2.jpg)
 ![Image 3](images/3.jpg)

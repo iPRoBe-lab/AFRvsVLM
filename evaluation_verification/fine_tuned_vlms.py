@@ -1,4 +1,17 @@
 
+"""
+Fine-tuned Vision-Language Models for face recognition evaluation.
+
+This module contains custom neural network architectures and fine-tuned models
+for face recognition tasks, including transformer blocks, adapters, and
+specialized VLM architectures.
+
+Author: Redwan Sony
+PhD Student, iPRoBe Lab
+Computer Science and Engineering
+Michigan State University
+"""
+
 import open_clip
 import torch
 import torch.nn as nn

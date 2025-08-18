@@ -1,3 +1,15 @@
+"""
+Model hub utilities for loading and managing various vision models.
+
+This module provides utilities for downloading and loading models from Hugging Face,
+including helper functions for model management and fine-tuned model loading.
+
+Author: Redwan Sony
+PhD Student, iPRoBe Lab
+Computer Science and Engineering
+Michigan State University
+"""
+
 import os
 import shutil
 import sys

@@ -2,16 +2,22 @@
   
 # **Foundation versus Domain-specific Models: Performance Comparison, Fusion, and Explainability in Face Recognition**  
 
- </div>
+[**Redwan Sony**](https://redwankarimsony.github.io) · 
+[**Parisa Farmanifard**](https://www.linkedin.com/in/parisa-farmanifard/) · 
+[**Arun Ross**](https://www.cse.msu.edu/~rossarun/) · 
+[**Anil K. Jain**](https://www.cse.msu.edu/~jain/)  
+**Department of Computer Science and Engineering, Michigan State University, USA**  
+
+</div>
 
 <p align="center">
-  <a href="https://github.com/iPRoBe-lab/AFRvsVLM/tree/main">
+  <a href="https://github.com/iPRoBe-lab/AFRvsVLM/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
   </a>
-  <a href="https://arxiv.org/abs/2507.03541">
+  <a href="https://arxiv.org/abs/2507.03541" target="_blank">
     <img src="https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
   </a>
-  <a href="https://ieeexplore.ieee.org/document/XXXXXXXX">
+  <a href="https://ieeexplore.ieee.org/document/XXXXXXXX" target="_blank">
     <img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
   </a>
 </p>

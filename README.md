@@ -4,14 +4,18 @@
 
  </div>
 
-<!-- ![Image 1](images/1.jpg)
-![Image 2](images/2.jpg)
-![Image 3](images/3.jpg)
-![Image 4](images/4.jpg)
-![Image 5](images/5.jpg)
-![Image 6](images/6.jpg)
-![Image 7](images/7.jpg)
-![Image 8](images/8.jpg) -->
+<p align="center">
+  <a href="https://github.com/iPRoBe-lab/AFRvsVLM/tree/main">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
+  </a>
+  <a href="https://arxiv.org/abs/2507.03541">
+    <img src="https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/XXXXXXXX">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+  </a>
+</p>
+
 
 ## Reproducing Results
 

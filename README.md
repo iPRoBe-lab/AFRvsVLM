@@ -1,10 +1,18 @@
-<div align="center">
- 
-# **Foundation versus Domain-specific Models: Performance Comparison, Fusion, and Explainability in Face Recognition**  
- 
- </div>
 
- ![](images/visual_abs.jpg)
+![](images/visual_abs.jpg)
+
+<p align="center">
+  <a href="https://github.com/iPRoBe-lab/AFRvsVLM/tree/main" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" alt="Code"/>
+  </a>
+  <a href="https://arxiv.org/abs/2507.03541" target="_blank">
+    <img src="https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"/>
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/XXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/>
+  </a>
+</p>
+
 
  
 
